@@ -1,7 +1,7 @@
 # Natural-Language-Processing
 ### Natural Language Processing (NLP) Text Classification Application in Python
 
-This repository contains the analysis of political tweets using the Twitter API.
+This repository contains the prediction of political tweets using the Twitter API.
 
 **Goals**
 
