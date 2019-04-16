@@ -3,6 +3,8 @@
 
 This repository contains the prediction of political tweets using the Twitter API.
 
+![image](https://user-images.githubusercontent.com/41403941/56247928-4193b380-605b-11e9-8071-d8c3656c55a8.jpeg)
+
 **Goals**
 
 - Classify whether a tweet comes from Donald Trump or Nancy Pelosi -> Can we correctly identify which of these two politicians tweeted what?
